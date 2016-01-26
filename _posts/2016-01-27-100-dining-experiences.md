@@ -8,9 +8,11 @@ tags:	food life
 cover:  ""
 ---
 
-I am doing a crazy experiment to see if I can go to 100 different resturant experiences without double takes. Why not, life is crazy? 
+I am doing an experiment this year to see if I can do 100 different dining experiences without double takes. Why not, life is crazy? 
 
-The rules are simple, if sit down it counts and I cannot go back till I hit 100. Take aways do not count!
+The rules are pretty simple, if I sit down at the restaurant to eat it counts and I cannot go back till I hit the big 100. Take aways do not count!
+
+How far do I think I can make it? No idea, I have a feeling that staying away from my favourite places might be the biggest challenge.
 
 ## The list 
 
