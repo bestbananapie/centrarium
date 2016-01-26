@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "London Guide"
-date:   2016-01-20 08:43:59
+date:   2016-01-20
 author: Mister Simon
 categories: guide
 tags:	guide london
-cover:  ""
+cover:  "https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/Photos/london_guide_cover.jpg"
 ---
 
 Having lived in London since 2010, I have come to visit a lot of places but I can never seem to come up with recommendations when people ask me for things. I thought I would put a guide together to serve as my personal recommendation.  This list is constantly updated.
