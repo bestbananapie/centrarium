@@ -11,14 +11,14 @@ cover:  "https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/Photos/Revi
 In that brief moment as you step through the front door, you will feel a bit confused as you have to remind yourself why you are there. The strong and distinct Colonial British thematic decor  makes you want to get your camera out for a selfie. The coherence in style almost makes it feel like you are in a movie set, while the large vaulted ceilings, clock and bustling noise could make you think you arrived at a train station. This is quickly forgotten however, as the forty-five minutes queue to get here, has your tummy grumbling for food and you start looking around for that empty table that has your name on it.
 
 <a href="https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/photos/reviews/20160124_dishoom_decor1.jpg" data-lightbox="decor" data-title="Decor at dishoom">
-   <img src="https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/photos/reviews/20160124_dishoom_decor1.jpg" title="Decor at dishoom">
+   <img src="https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/photos/reviews/20160124_dishoom_decor1.jpg" title="Decor at dishoom" alt="Decor at Dishoom">
 </a>
 
 
 Being seated at the lounge was perfect for that slightly hungover, it is a bit too early to be active on a Sunday feeling. Sitting on the sofa overlooking the bar and restaurant, it seemed like the whole world was passing you by, but it is just the waiters and patrons walking around in what is a fairly large restaurant. 
 
 <a href="https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/photos/reviews/20160124_dishoom_decor2.jpg" data-lightbox="decor" data-title="Decor at dishoom">
-   <img src="https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/photos/reviews/20160124_dishoom_decor2.jpg" title="Decor at dishoom">
+   <img src="https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/photos/reviews/20160124_dishoom_decor2.jpg" title="Decor at dishoom" alt="Decor at Dishoom">
 </a>
 
 Getting down to business, you focus on the menu. You would be forgiven for not wrapping your head around it, there is 4 columns and a few rows, wait what happened to that spreadsheet you were working on earlier in the week? Your mind wanders, the menu is a bit too much effort for you to understand right now and you let your friends do the ordering while you look out onto the restaurant again. You start noticing that all the waiters are westerns and happily moving about the restaurant with a lot of energy. 
@@ -28,7 +28,7 @@ Getting down to business, you focus on the menu. You would be forgiven for not w
 I got to try three different starters; okra fries, spiced lamb keema, and chili cheese toast. First let's be honest about the chili cheese toast, it is cheese on toast put in the oven! While the menu might say it is a Bombay standard, it definitely is not resturant standard for me. I would stick to the cheese on toast you can make at home. The buttered pau bun that came with the lamb spiced keema had a subtle hint of sweetness and fresh, but that is about as far as my love for this dish does. The lamb was not as rich in flavour as you might come to expect from Indian food, and the meat was boiled rather than fried making the dish rather tasteless.
 
 <a href="https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/photos/reviews/20160124_dishoom_starters.jpg" data-lightbox="food" data-title="starters at dishoom">
-   <img src="https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/photos/reviews/20160124_dishoom_starters.jpg" title="starters at dishoom">
+   <img src="https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/photos/reviews/20160124_dishoom_starters.jpg" title="starters at dishoom" alt="starters">
 </a>
 
 The saviour to the starters was the Okra fries, it had this really nice crunchy feel to it when you pick it up with your hands, and then when you bite into it, there is this contrast with the soft moist lady finger center that simply must be tried. 
@@ -41,7 +41,7 @@ The garlic naan was nothing special, a little crisper than I would like and a st
 
 
 <a href="https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/photos/reviews/20160124_dishoom_mains.jpg" data-lightbox="food" data-title="mains at dishoom">
-   <img src="https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/photos/reviews/20160124_dishoom_mains.jpg" title="mains at dishoom">
+   <img src="https://dl.dropboxusercontent.com/u/2071458/mistersimon.com/photos/reviews/20160124_dishoom_mains.jpg" title="mains at dishoom" alt="mains">
 </a>
 
 The chicken briyani had a few big pieces of chicken at the bottom which was a very welcomed addition, and a few cranberries to add sweetness rather than the more typical raisins. It was a bit dry in my opinion and had to add some of that nice ruby curry to make it go down well. Probably better off getting a rice and curry dish separately for around the same price if you ever do end up here. 
