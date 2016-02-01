@@ -30,6 +30,8 @@ paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai_sublime"
 
+permalink: /:categories/:title
+
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
   enabled:
