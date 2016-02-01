@@ -10,7 +10,7 @@ cover:  ""
 
 I am doing an experiment this year to see if I can do 100 different dining experiences without double takes. Why not, life is crazy? 
 
-The rules are pretty simple, if I sit down at the restaurant to eat it counts and I cannot go back till I hit the big 100. Take aways do not count!
+The rules are pretty simple. A restaurant counts on the list if I sit down and eat in at the restaurant. Take-away meals do not count, unless that restaurant has already been on the list. This is to prevent me from circumventing the system by ordering take-away for the sake of it, but keeps go-to take-away places off the list! 
 
 How far do I think I can make it? No idea, I have a feeling that staying away from my favourite places might be the biggest challenge.
 
@@ -30,3 +30,5 @@ How far do I think I can make it? No idea, I have a feeling that staying away fr
 14. 27/01 - Kennedy's
 15. 29/01 - Burger King`
 16. 30/01 - Four Seasons
+17. 31/01 - Made in Camden
+18. 31/01 - Kanada-Ya
