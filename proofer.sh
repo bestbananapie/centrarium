@@ -1,1 +1,1 @@
-bundle exec htmlproof ./_site --only-4xx --disable-external
+bundle exec htmlproofer ./_site --only-4xx --disable-external
