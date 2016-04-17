@@ -1,5 +1,5 @@
 # A sample Gemfile
-source "https://rubygems.org"
+source "http://rubygems.org"
 
 gem "jekyll", "~>2.5"
 gem "jekyll-archives", "~>2.0"
