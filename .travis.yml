@@ -16,7 +16,7 @@ deploy:
   bucket: mistersimon.com
   skip_cleanup: true
   region: eu-west-1
-  local_dir: ./jekyll/_site
+  local_dir: jekyll/_site
 branches:
   only:
   - master
