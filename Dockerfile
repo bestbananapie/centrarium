@@ -2,8 +2,9 @@
 
 #Set base image to Ubuntu
 FROM ruby:2.1
-
 MAINTAINER simonlee
+
+ENV LANG C.UTF-8
 
 RUN apt-get update -qq
 RUN apt-get install -y nodejs
