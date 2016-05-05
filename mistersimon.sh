@@ -8,9 +8,19 @@ function help {
     echo "Options"
     echo "build - Build docker image"
     echo "serve - Run jekyll in docker"
+    echo "c9 - Run jekyll on c9 platform"
     echo "proof - Run proofer"
 }
 
+function c9 {
+	if [ "$1" == "install" ] ; then
+		(cd jekyll && bundle install)
+	elif [ "$1" = "serve" ] ; then
+		(cd jekyll && bundle exec jekyll serve --host $IP --port $PORT --baseurl '')
+	elif [ "$1" = "check" ] ; then
+		(cd jekyll && bundle exec  htmlproofer ./_site --only-4xx --disable-external)
+	fi
+}
 function build {
     docker build -t ${DOCKER_IMAGE} .
 }
@@ -31,4 +41,6 @@ elif [ "$1" = "serve" ] ; then
     serve
 elif [ "$1" = "check" ] ; then
     check
+elif [ "$1" = "c9" ] ; then
+    c9 $2
 fi
