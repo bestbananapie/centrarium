@@ -1,28 +1,27 @@
 
 
 #Set base image to Ubuntu
-FROM ruby
+FROM ruby:2.1
 
 MAINTAINER simonlee
 
 RUN apt-get update -qq
+RUN apt-get install -y nodejs
 
-COPY Gemfile* /tmp/
+COPY ./jekyll/Gemfile* /tmp/
 WORKDIR /tmp
 
-#RUN gem install bundler -V
+RUN gem install bundler 
 
-#RUN bundle install -V
-RUN gem install \
-    jekyll:'~>2.5' \
-    jekyll-archives:'~>2.0' \
-    jekyll-sitemap:'~>0.8' \
-    html-proofer
+RUN bundle install
 
 VOLUME src
-WORKDIR /src
 
+WORKDIR /src
 
 EXPOSE 4000
 
-ENTRYPOINT ["jekyll"]
+#ENTRYPOINT ["/bin/bundle","exec"]
+ENTRYPOINT ["bundle","exec"]
+CMD ["jekyll serve --port 4000 --host 0.0.0.0"]
+
