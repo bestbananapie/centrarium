@@ -1,7 +1,7 @@
 language: ruby
 rvm:
 - 2.1
-gemfile: jekyll/
+gemfile: jekyll/Gemfile
 before_script:
 - cd jekyll
 script:
