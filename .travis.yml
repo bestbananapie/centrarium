@@ -1,9 +1,11 @@
 language: ruby
 rvm:
 - 2.1
+before_script:
+- cd jekyll
 script:
-- cd jekyll && bundle exec jekyll build --config _config.yml,_config_deploy.yml
-- cd jekyll && bundle exec htmlproofer ./_site --only-4xx --disable-external
+- bundle exec jekyll build --config _config.yml,_config_deploy.yml
+- bundle exec htmlproofer ./_site --only-4xx --disable-external
 deploy:
   provider: s3
   access_key_id:
